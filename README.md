@@ -17,6 +17,8 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 1.6 You may not distribute, publish, or send through an App: (1) any spam, including any unsolicited advertisements, solicitations, commercial messages, informational announcements, or promotional messages of any kind; (2) chain mail; (3) numerous copies of the same or substantially similar messages; (4) empty messages; (5) messages that contain no substantive content; (6) very large messages or files that disrupt a server, account, newsgroup, or chat service; or (7) any message that is categorized as 'phishing'.
 
+1.7 If you choose to purchase RememberMe Premium, payment will be charged to your Apple ID account at the confirmation of purchase, Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. Restore purchases if previously subscribed. The current Remember Pro subscription price starts at $4.99/Month and $29.99/Year. Prices are in CAD dollars, may vary in countries other than the CA, and are subject to change without notice. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase RememberMe Premium, you can simply continue using RememberMe for free.
+
 2. Intellectual Property Rights
 
 2.1 The App, and all content included on or within the App, such as the user interface, the compilation of the content and arrangement of the website, and all text, graphics, pictures, sound, video, data, applications and other content, is the property of us, our licensors or content suppliers and is protected by copyright and other intellectual property laws. Reproduction or redistribution of such content except as expressly permitted by these Terms of Use is prohibited.
@@ -30,4 +32,4 @@ We makes Apps available to you subject to the following Terms of Use. Do not use
 
 Best regards!
 
-Last Update: 25 March, 2022
+Last Update: 1 April, 2022
